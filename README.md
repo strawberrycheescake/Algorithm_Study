@@ -1,28 +1,26 @@
 # [1일 1알] 알고리즘 스터디
 
-## 참여자 👥
-- A조
-    - [이은혁](https://github.com/itmakesmesoft) 👾</br>
-    - [김유나]() 🙄</br>
-    - [최종욱]() 🦾</br>
-    - [류한일]() 👻</br>
-    - [양가영]() 🤖</br>
+## 참여자🤪
+- **A조**
+    - [이은혁](https://github.com/itmakesmesoft)</br>
+    - [김유나](https://github.com/yuna872)</br>
+    - [최종욱]()</br>
+    - [류한일]()</br>
+    - [양가영]()</br>
 </br>
-- B조
-    - [신한국](https://github.com/dlfnek) 🐶</br>
-    - [나혜승](https://github.com/HyeseungNA) 🤭</br>
-    - [김현서]() 😷</br>
-    - [박현영]() 🥱</br>
-</br>
-
-## 스터디 방식 📃
+- **B조**
+    - [신한국](https://github.com/dlfnek)</br>
+    - [나혜승](https://github.com/HyeseungNA)</br>
+    - [김현서]()</br>
+    - [박현영]()</br>
 </br>
 
-- 기간
-    - 2022.08.01 ~ 무기한
-- 시간
-    - `평일` : 20:30 ~ 23:30 (라이브 스터디)
-    - `주말` : 토요일 오후 2시 Webex 코드 리뷰 (필참)
+## 스터디 방식📃
+
+- **기간** : 2022.08.01 ~ 무기한
+- 시간 
+    - `평 일` : 20:30 ~ 23:30 (라이브 스터디)</br> 
+    - `주 말` : 토요일 오후 2시 Webex 코드 리뷰 (필참)
 - 규정
     - 글 하단 규정 참고
 
@@ -34,15 +32,23 @@
 </br>
 </br>
 <details>
-<summary>스터디 규정 안내</summary>
-<div markdown="1">
-- 경고 3회 시 퇴출</br>
-- 매월 1일 경고 리셋</br>
-- 라이브 스터디 무단 결석 : 경고 1회 </br>
-- 코드리뷰 무단 결석 : 경고 1회 및 벌칙 코드 작성</br>
-* 부득이한 사정으로 라이브 스터디 참석 불가능한 경우 오후 6시 까지 미리 공지</br>
-* 부득이한 사정으로 코드리뷰 참석 불가능한 경우 전일 오후 6시 까지 미리 공지</br></br>
-</div>
+    <summary>스터디 규정 안내</summary>
+    <div markdown="1">
+        <table>
+            <tr style="text-align: center; font-weight: bold;">
+              <td>규정</td><td>내용</td>
+            </tr>
+            <tr>
+                <td>라이브 스터디 무단 결석</br>(부득이한 사정으로 참석 불가능한 경우</br>당일 오후 6시 까지 미리 공지)</td><td>경고 1회</td>
+            </tr>
+            <tr>
+                <td>코드리뷰 무단 결석</br>(부득이한 사정으로 참석 불가능한 경우</br>전일 오후 6시 까지 미리 공지)</td><td>경고 1회 및 벌칙 코드 작성</td>
+            </tr>
+            <tr>
+                <td colspan= '2'> - 지각 2회 시 1회 경고</br> - 경고 3회 누적 시 퇴출</br> - 매월 1일 경고 리셋</td>
+            </tr>
+        </table>
+    </div>
 </details>
 </br>
 
@@ -56,9 +62,9 @@
 
 </br>
 
-## 참고 사이트
-</br>
+## **참고**
 
+- [스터디 공유드라이브](https://drive.google.com/drive/folders/1mL6Mk0UTp6gN1Bbn0btMbsI6qtlNgJW-)
 - [백준 온라인 저지](https://www.acmicpc.net/step)
 - [프로그래머스](https://school.programmers.co.kr/learn/challenges)
 - [Solved.ac](https://solved.ac/problems/level)
