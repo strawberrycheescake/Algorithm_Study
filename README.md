@@ -7,7 +7,6 @@
     - [최종욱]()</br>
     - [류한일]()</br>
     - [양가영]()</br>
-</br>
 
 - **B조**
     - [신한국](https://github.com/dlfnek)</br>
