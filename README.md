@@ -51,7 +51,7 @@
 
 </br>
 
-<details>
+<details style="margin-left : 25px;">
     <summary>Rule Details</summary>
     <div markdown="1">
         <table>
