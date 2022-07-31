@@ -20,7 +20,7 @@
 </br>
 
 <table>
-    <tr>
+    <tr style="text-align:center !important;">
         <td>주차</td>
         <td>조</td>
         <td>분류</td>
@@ -125,11 +125,11 @@
 
 </br>
 
-<details style="margin-left : 25px;">
+<details style="margin-left : 25px !important;">
     <summary>Rule Details</summary>
     <div markdown="1">
         <table>
-            <tr style="text-align: center; font-weight: bold;">
+            <tr style="text-align: center !important; font-weight: bold !important;">
               <td>규정</td><td>내용</td>
             </tr>
             <tr>
