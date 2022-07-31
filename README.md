@@ -29,56 +29,52 @@
     <tr>
         <td rowspan='2'>1주차</td>
         <td>A조</td>
-        <td>1차원 배열
-        함수
-        문자열</td>
+        <td>미정</td>
         <td>
-        1. <a href="https://www.acmicpc.net/problem/4344">평균은 넘겠지</a><br/> 
-        2. <a href="https://www.acmicpc.net/problem/4673">셀프넘버</a><br/> 
-        3. <a href="https://www.acmicpc.net/problem/10809">알파벳 찾기</a>
+        1. <a href=""></a><br/> 
+        2. <a href=""></a><br/>
+        3. <a href=""></a><br/> 
+        4. <a href=""></a><br/> 
+        5. <a href=""></a>
         </td>
         <td></td>
     </tr>
     <tr>
         <td>B조</td>
-        <td>1차원 배열
-        함수
-        문자열</td>
+        <td>반복문</br>문자열</td>
         <td>
-        1. <a href="https://www.acmicpc.net/problem/4344">평균은 넘겠지</a><br/> 
-        2. <a href="https://www.acmicpc.net/problem/4673">셀프넘버</a><br/> 
-        3. <a href="https://www.acmicpc.net/problem/10809">알파벳 찾기</a>
+        1. <a href="https://www.acmicpc.net/problem/11654">아스키 코드</a><br/> 
+        2. <a href="https://www.acmicpc.net/problem/5622">다이얼</a><br/> 
+        3. <a href="https://www.acmicpc.net/problem/1110">더하기 사이클</a></br>
+        4. <a href="https://www.acmicpc.net/problem/8958">OX퀴즈</a></br>
+        5. <a href="https://www.acmicpc.net/problem/2884">알람시계</a>
         </td>
         <td></td>
     </tr>
     <tr>
         <td rowspan='2'>2주차</td>
         <td>A조</td>
-        <td>기본 수학1
-        기본 수학2
-        재귀</td>
+        <td>미정</td>
         <td>
-        1. <a href="https://www.acmicpc.net/problem/1193">분수찾기</a></br>
-        2. <a href="https://www.acmicpc.net/problem/2839">설탕 배달</a><br/> 
-        3. <a href="https://www.acmicpc.net/problem/1929">소수 구하기</a><br/> 
-        4. <a href="https://www.acmicpc.net/problem/9020">골드바흐의 추측</a><br/> 
-        5. <a href="https://www.acmicpc.net/problem/10870">피보나치 수5</a><br/> 
-        6. <a href="https://www.acmicpc.net/problem/11729">하노이 탑 이동 순서</a>
+        1. <a href=""></a></br>
+        2. <a href=""></a><br/> 
+        3. <a href=""></a><br/> 
+        4. <a href=""></a><br/> 
+        5. <a href=""></a>
         </td>
         <td></td>
     </tr>
     <tr>
         <td>B조</td>
-        <td>기본 수학1
-        기본 수학2
-        재귀</td>
         <td>
-        1. <a href="https://www.acmicpc.net/problem/1193">분수찾기</a></br>
-        2. <a href="https://www.acmicpc.net/problem/2839">설탕 배달</a><br/> 
-        3. <a href="https://www.acmicpc.net/problem/1929">소수 구하기</a><br/> 
-        4. <a href="https://www.acmicpc.net/problem/9020">골드바흐의 추측</a><br/> 
-        5. <a href="https://www.acmicpc.net/problem/10870">피보나치 수5</a><br/> 
-        6. <a href="https://www.acmicpc.net/problem/11729">하노이 탑 이동 순서</a>
+        미정
+        </td>
+        <td>
+        1. <a href=""></a></br>
+        2. <a href=""></a><br/> 
+        3. <a href=""></a><br/> 
+        4. <a href=""></a><br/> 
+        5. <a href=""></a>
         </td>
         <td></td>
     </tr>
