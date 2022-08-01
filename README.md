@@ -103,7 +103,7 @@ ex) 홍길동
 8. 본인 이름 폴더로 dir 변경 후 git add, commit 실행
    
     ```
-    $ git add *
+    $ git add 업로드 파일이름
     $ git commit -m "커밋내용"```
     
     <!-- (커밋 내용 아래 안내사항 참고) -->
