@@ -67,7 +67,10 @@
         4. <a href="https://www.acmicpc.net/problem/8958">OX퀴즈</a></br>
         5. <a href="https://www.acmicpc.net/problem/2884">알람시계</a>
         </td>
-        <td></td>
+        <td>
+        + <a href="https://www.acmicpc.net/problem/1712">손익분기점</a></br>
+        + <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a>
+        </td>
     </tr>
 </table>
 
