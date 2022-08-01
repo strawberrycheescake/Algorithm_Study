@@ -84,9 +84,9 @@
 
 3. 본인의 스터디 Repository로 들어가 주소 복사 및 로컬 폴더에 clone 진행 
 
-4. 로컬 Repository에 본인 이름의 폴더 생성
+4. ~~로컬 Repository에 본인 이름의 폴더 생성~~
 
-5. 해당 본인 폴더내에 스터디 인증 파일을 넣고 `commit` - `push` 하면 인증 성공</br>
+5. ~~해당 본인 폴더내에 스터디 인증 파일을 넣고 `commit` - `push` 하면 인증 성공~~</br>
 [세팅 방법 참고](https://waytocse.tistory.com/57)
 
 
