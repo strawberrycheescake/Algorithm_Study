@@ -109,7 +109,7 @@ ex) 홍길동
 
 
 9. git push 방법 주의!</br>
-반드시 **origin 본인 브런치 이름**으로 푸시해야 함!!!
+반드시 :heavy_exclamation_mark:**origin 본인 브런치 이름**:heavy_exclamation_mark:으로 푸시해야 함!!!
     ```
     $ git push origin gildong
     ```
