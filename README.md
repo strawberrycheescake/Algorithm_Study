@@ -15,73 +15,6 @@
 
 </br>
 
-
-## :high_brightness:This Week's Goals 
-</br>
-
-<table>
-    <tr style="text-align:center !important;">
-        <td>주차</td>
-        <td>조</td>
-        <td>분류</td>
-        <td>필수문제</td>
-        <td>선택문제</td>
-    <tr>
-        <td rowspan='2'>1주차</td>
-        <td>A조</td>
-        <td>미정</td>
-        <td>
-        1. <a href=""></a><br/> 
-        2. <a href=""></a><br/>
-        3. <a href=""></a><br/> 
-        4. <a href=""></a><br/> 
-        5. <a href=""></a>
-        </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>B조</td>
-        <td>반복문</br>문자열</td>
-        <td>
-        1. <a href="https://www.acmicpc.net/problem/11654">아스키 코드</a><br/> 
-        2. <a href="https://www.acmicpc.net/problem/5622">다이얼</a><br/> 
-        3. <a href="https://www.acmicpc.net/problem/1110">더하기 사이클</a></br>
-        4. <a href="https://www.acmicpc.net/problem/8958">OX퀴즈</a></br>
-        5. <a href="https://www.acmicpc.net/problem/2884">알람시계</a>
-        </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td rowspan='2'>2주차</td>
-        <td>A조</td>
-        <td>미정</td>
-        <td>
-        1. <a href=""></a></br>
-        2. <a href=""></a><br/> 
-        3. <a href=""></a><br/> 
-        4. <a href=""></a><br/> 
-        5. <a href=""></a>
-        </td>
-        <td></td>
-    </tr>
-    <tr>
-        <td>B조</td>
-        <td>
-        미정
-        </td>
-        <td>
-        1. <a href=""></a></br>
-        2. <a href=""></a><br/> 
-        3. <a href=""></a><br/> 
-        4. <a href=""></a><br/> 
-        5. <a href=""></a>
-        </td>
-        <td></td>
-    </tr>
-</table>
-
-</br>
-
 ## Participants
 - **A조**
     - [이은혁](https://github.com/itmakesmesoft)</br>
@@ -96,6 +29,50 @@
     - [김현서]()</br>
     - [박현영]()</br>
 </br>
+
+
+## :high_brightness:This Week's Goals 
+</br>
+
+<table>
+    <tr style="text-align:center !important;">
+        <td>주차</td>
+        <td>조</td>
+        <td>분류</td>
+        <td>필수문제</td>
+        <td>선택문제</td>
+    <tr>
+        <td rowspan='2'>1주차</td>
+        <td>A조</td>
+        <td>문자열, 기본수학</br> (소인수분해, 수열, 소수판별) </td>
+        <td>
+        1. <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a><br/> 
+        2. <a href="https://www.acmicpc.net/problem/1712">손익분기점</a><br/>
+        3. <a href="https://www.acmicpc.net/problem/2869">달팽이는 올라가고 싶다</a><br/> 
+        4. <a href="https://www.acmicpc.net/problem/11653">소인수분해</a><br/> 
+        5. <a href="https://www.acmicpc.net/problem/9020">골드바흐의 추측</a>
+        </td>
+        <td>
+        + <a href="https://www.acmicpc.net/problem/10250">ACM 호텔</a></br>
+        + <a href="https://www.acmicpc.net/problem/4948">베르트랑 공준</a>
+        </td>
+    </tr>
+    <tr>
+        <td>B조</td>
+        <td>반복문</br>문자열</td>
+        <td>
+        1. <a href="https://www.acmicpc.net/problem/11654">아스키 코드</a><br/> 
+        2. <a href="https://www.acmicpc.net/problem/5622">다이얼</a><br/> 
+        3. <a href="https://www.acmicpc.net/problem/1110">더하기 사이클</a></br>
+        4. <a href="https://www.acmicpc.net/problem/8958">OX퀴즈</a></br>
+        5. <a href="https://www.acmicpc.net/problem/2884">알람시계</a>
+        </td>
+        <td></td>
+    </tr>
+</table>
+
+</br>
+
 
 ## 초기 세팅(중요)
 1. 스터디 Repository로 들어가 우측 상단의 `Fork` 버튼 클릭
