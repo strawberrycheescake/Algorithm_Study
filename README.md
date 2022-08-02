@@ -98,7 +98,7 @@
     $ git commit -m "커밋내용"
     ```
 
-- :heavy_exclamation_mark: 인증 파일 관련 안내
+- :heavy_exclamation_mark: __인증 파일 관련 안내__ ❗ 
     - 인증 파일은 반드시 .py 또는 .java 확장자 파일이어야 함
     - 인증 파일명'은 `알고리즘 문제 사이트 이름_문제번호_문제이름.py`로 수정할 것
     - ex) <div>"백준_11654_아스키 코드.py"</br>
