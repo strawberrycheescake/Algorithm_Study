@@ -78,27 +78,33 @@
 
 
 ## 초기 세팅(중요)
-1. __스터디 Repository로 들어가 우측 상단의 `Fork` 버튼 클릭__
+### 1. 스터디 Repository로 들어가 우측 상단의 `Fork` 버튼 클릭
 
-2. __본인의 Repository에 스터디 Repo가 생성__
+### 2. 본인의 Repository에 스터디 Repo가 생성
 
-3. __본인의 remote 스터디 Repository로 들어가 주소 복사 및 로컬 폴더에 clone 진행__
+### 3. 본인의 remote 스터디 Repository로 들어가 주소 복사 및 로컬 폴더에 clone 진행
 
-4. __로컬 Repo 폴더에 본인 이름(한글) 폴더 생성 후, 스터디 인증 파일 넣기__
+### 4. 로컬 Repo 폴더에 본인 이름(한글) 폴더 생성 후, 스터디 인증 파일 넣기
 </br>
-
 <img src="./etc/참고이미지.png" style="position: relative; margin-left: 45px; margin-bottom: 20px;">
-
 </br>
 
-5. __로컬 Repository (본인 이름 폴더 내)에서 Git Bash 실행__</br>
+### 5. 로컬 Repository (본인 이름 폴더 내)에서 Git Bash 실행</br>
 
-6. __git add, commit 실행__
+### 6. git add, commit 실행
    
     ```
-    $ git add 업로드 파일 이름
+    $ git add 파일(파일 이름 : 알고리즘 사이트명_문제번호_문제이름)
     $ git commit -m "커밋내용"
     ```
+
+- :heavy_exclamation_mark: 인증 파일 관련 안내
+    - 인증 파일은 반드시 .py 또는 .java 확장자 파일이어야 함
+    - 인증 파일명'은 `알고리즘 문제 사이트 이름_문제번호_문제이름.py`로 수정할 것
+    - ex) <div>"백준_11654_아스키 코드.py"</br>
+    "SWEA_14557_카드 제거.py"</div>
+
+</br>
 <details style="margin-left : 25px !important;">
     <summary> ❗ 오류 발생 시 클릭 ❗ </summary>
     <div markdown="1">
@@ -123,13 +129,13 @@
 </details>
 </br>
 
-7. __git push__ </br>
+### 7. git push </br>
     ```
     $ git push
     ```
 
 
-8. __Pull Request 진행__</br>
+### 8. Pull Request 진행</br>
 push 완료 후 본인 계정의 github 저장소에 들어오면 Compare & pull reqeust 버튼이 활성화됨.
 해당 버튼을 선택하여 메시지를 작성하고 PR을 생성.
 </br>
@@ -143,20 +149,6 @@ push 완료 후 본인 계정의 github 저장소에 들어오면 Compare & pull
 
 </br>
 
-
-### :heavy_exclamation_mark: 인증 파일 관련 안내
-- 인증 파일은 반드시 .py 확장자 파일이어야 함
-- 인증 파일명'은 `알고리즘 문제 사이트 이름_문제번호_문제이름.py`로 수정할 것
-- ex) <div>"백준_11654_아스키 코드.py"</br>
-"SWEA_14557_카드 제거.py"</div>
-
-</br>
-
-### :bangbang: 커밋 내용 관련 안내
-- 커밋 내용도 파일명과 마찬가지로 작성
-- ex) <div>"백준_11654_아스키 코드"</br>"SWEA_14557_카드 제거"</div>
-
-</br>
 
 ## Links
 
