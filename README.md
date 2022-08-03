@@ -94,44 +94,64 @@ $ git push
 
 
 ## 초기 세팅(중요)
-1. 스터디 Repository로 들어가 우측 상단의 `Fork` 버튼 클릭
+### 1. 스터디 Repository로 들어가 우측 상단의 `Fork` 버튼 클릭
 
-2. 본인의 Repository에 스터디 Repo가 생성
+### 2. 본인의 Repository에 스터디 Repo가 생성
 
-3. 본인의 스터디 Repository로 들어가 주소 복사 및 로컬 폴더에 clone 진행 
+### 3. 본인의 remote 스터디 Repository로 들어가 주소 복사 및 로컬 폴더에 clone 진행
 
-4. 로컬 Repository에서 Git Bash 실행
-
-5. git checkout -b 본인 영어이름 입력</br>
-ex) 홍길동
-    ```
-    $ git checkout -b gildong 
-    ```
-
-6. git branch를 통해 브런치 생성 확인
-
-
-7. 로컬 Repo 폴더에 본인 이름(한글) 폴더 생성 후, 스터디 인증 파일 넣기</br>('인증파일' 아래 안내사항 참고)
-
+### 4. 로컬 Repo 폴더에 본인 이름(한글) 폴더 생성 후, 스터디 인증 파일 넣기
+</br>
 <img src="./etc/참고이미지.png" style="position: relative; margin-left: 45px; margin-bottom: 20px;">
 </br>
-        
-8. 본인 이름 폴더로 dir 변경 후 git add, commit 실행
+
+### 5. 로컬 Repository (본인 이름 폴더 내)에서 Git Bash 실행</br>
+
+### 6. git add, commit 실행
    
     ```
-    $ git add 업로드 파일이름
-    $ git commit -m "커밋내용"```
-    
-    <!-- (커밋 내용 아래 안내사항 참고) -->
-
-
-9. git push 방법 주의!</br>
-반드시 :heavy_exclamation_mark:**origin 본인 브런치 이름**:heavy_exclamation_mark:으로 푸시해야 함!!!
-    ```
-    $ git push origin gildong
+    $ git add 파일(파일 이름 : 알고리즘 사이트명_문제번호_문제이름)
+    $ git commit -m "커밋내용"
     ```
 
-10. Pull Request 진행
+- :heavy_exclamation_mark: __인증 파일 관련 안내__ ❗ 
+    - 인증 파일은 반드시 .py 또는 .java 확장자 파일이어야 함
+    - 인증 파일명'은 `알고리즘 문제 사이트 이름_문제번호_문제이름.py`로 수정할 것
+    - ex) <div>"백준_11654_아스키 코드.py"</br>
+    "SWEA_14557_카드 제거.py"</div>
+
+</br>
+<details style="margin-left : 25px !important;">
+    <summary> ❗ 오류 발생 시 클릭 ❗ </summary>
+    <div markdown="1">
+
+- 깃허브 remote Repo와 local Repo의 저장된 데이터가 일치하지 않아서 생기는 문제</br>
+    일반적으로 remote Repo에 저장된 파일이 local Repo에는 존재하지 않는 경우 발생.</br>
+    ```
+    ! [rejected]          main -> main (fetch first)
+    error: failed to push some refs to 'https://github.com/...
+    ```
+    따라서, git pull을 통해 로컬 저장소의 파일을 내려받아야 함.</br>
+    본인이 업로드할 파일 삭제되지 않게 주의!</br>
+    ```
+    $ git pull
+    ```
+    </br>
+
+- 브런치가 `main`이 아닌 경우, 다시 `main`으로 설정해주세요
+    ```
+    $ git checkout main
+    ```
+</details>
+</br>
+
+### 7. git push </br>
+    ```
+    $ git push
+    ```
+
+
+### 8. Pull Request 진행</br>
 push 완료 후 본인 계정의 github 저장소에 들어오면 Compare & pull reqeust 버튼이 활성화됨.
 해당 버튼을 선택하여 메시지를 작성하고 PR을 생성.
 </br>
@@ -141,24 +161,10 @@ push 완료 후 본인 계정의 github 저장소에 들어오면 Compare & pull
 </br>
 
 
-    [세팅 방법 참고](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
-
-
-</br>
-
-### :heavy_exclamation_mark: 인증 파일 관련 안내
-- 인증 파일은 반드시 .py 확장자 파일이어야 함
-- 인증 파일명'은 `알고리즘 문제 사이트 이름_문제번호_문제이름.py`로 수정할 것
-- ex) <div>"백준_11654_아스키 코드.py"</br>
-"SWEA_14557_카드 제거.py"</div>
+[세팅 방법 참고](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
 
 </br>
 
-### :bangbang: 커밋 내용 관련 안내
-- 커밋 내용도 파일명과 마찬가지로 작성
-- ex) <div>"백준_11654_아스키 코드"</br>"SWEA_14557_카드 제거"</div>
-
-</br>
 
 ## Links
 
