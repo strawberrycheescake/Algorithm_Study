@@ -77,6 +77,22 @@
 </br>
 
 
+## 파일 업로드 방법 (중요)
+초기 세팅을 마친 경우,</br>
+본인 이름 폴더 내에 파일을 넣고 커밋 진행</br> 
+```
+$ git add 파일
+$ git commit -m "커밋메시지"
+$ git push 
+```
+❗ git push 이후</br>
+❗ 본인의 Github fork repository에서 [Pull Request]를 눌러야 파일 전송됨.</br>
+❗ 아래 '초기 세팅 방법' 5번 ~ 8번 과정 참조</br>
+</br>
+
+
+
+
 ## 초기 세팅(중요)
 1. 스터디 Repository로 들어가 우측 상단의 `Fork` 버튼 클릭
 
