@@ -152,8 +152,9 @@ $ git push
 
 
 ### 8. Pull Request 진행</br>
-push 완료 후 본인 계정의 github 저장소에 들어오면 Compare & pull reqeust 버튼이 활성화됨.
+push 완료 후 본인 계정의 github 저장소에 들어오면 Compare & pull reqeust 버튼이 활성화됨.</br>
 해당 버튼을 선택하여 메시지를 작성하고 PR을 생성.
+
 </br>
 <img src="./etc/1.png" style="position: relative; margin-left: 45px; margin-bottom: 20px;">
 </br>
@@ -162,6 +163,9 @@ push 완료 후 본인 계정의 github 저장소에 들어오면 Compare & pull
 
 
 [세팅 방법 참고](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)
+
+
+
 
 </br>
 
