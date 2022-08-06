@@ -44,9 +44,9 @@
     <tr>
         <td rowspan='2'>2주차</td>
         <td>A조</td>
-        <td>문제 유형도 적어주세요</td>
+        <td>정렬 </td>
         <td>
-        1. <a href="#">문제 이름</a><br/>
+        1. <a href="https://www.acmicpc.net/problem/18870">좌표 압축</a><br/>
         2. <a href="#">문제 이름</a><br/>
         3. <a href="#">문제 이름</a><br/>
         4. <a href="#">문제 이름</a><br/>
