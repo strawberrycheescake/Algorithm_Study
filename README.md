@@ -35,43 +35,41 @@
 </br>
 
 <table>
-    <tr style="text-align:center !important;">
+    <tr>
         <td>주차</td>
         <td>조</td>
         <td>분류</td>
         <td>필수문제</td>
         <td>선택문제</td>
     <tr>
-        <td rowspan='2'>1주차</td>
+        <td rowspan='2'>2주차</td>
         <td>A조</td>
-        <td>문자열, 기본수학</br> (소인수분해, 수열, 소수판별) </td>
+        <td>문제 유형도 적어주세요</td>
         <td>
-        1. <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a><br/> 
-        2. <a href="https://www.acmicpc.net/problem/1712">손익분기점</a><br/>
-        3. <a href="https://www.acmicpc.net/problem/2869">달팽이는 올라가고 싶다</a><br/> 
-        4. <a href="https://www.acmicpc.net/problem/11653">소인수분해</a><br/> 
-        5. <a href="https://www.acmicpc.net/problem/9020">골드바흐의 추측</a>
+        1. <a href="#">문제 이름</a><br/>
+        2. <a href="#">문제 이름</a><br/>
+        3. <a href="#">문제 이름</a><br/>
+        4. <a href="#">문제 이름</a><br/>
+        5. <a href="#">문제 이름</a><br/>
         </td>
         <td>
-        + <a href="https://www.acmicpc.net/problem/10250">ACM 호텔</a></br>
-        + <a href="https://www.acmicpc.net/problem/4948">베르트랑 공준</a>
+        + <a href="#">선택 문제</a>
         </td>
     </tr>
     <tr>
         <td>B조</td>
-        <td>반복문</br>문자열</td>
+        <td>문제 유형도 적어주세요</td>
         <td>
-        1. <a href="https://www.acmicpc.net/problem/11654">아스키 코드</a><br/> 
-        2. <a href="https://www.acmicpc.net/problem/5622">다이얼</a><br/> 
-        3. <a href="https://www.acmicpc.net/problem/1110">더하기 사이클</a></br>
-        4. <a href="https://www.acmicpc.net/problem/8958">OX퀴즈</a></br>
-        5. <a href="https://www.acmicpc.net/problem/2884">알람시계</a>
+        1. <a href="#">문제 이름</a><br/>
+        2. <a href="#">문제 이름</a><br/>
+        3. <a href="#">문제 이름</a><br/>
+        4. <a href="#">문제 이름</a><br/>
+        5. <a href="#">문제 이름</a><br/>
         </td>
         <td>
-        + <a href="https://www.acmicpc.net/problem/1712">손익분기점</a></br>
-        + <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a>
+        + <a href="#">선택 문제</a>
         </td>
-    </tr>
+    </tr>    
 </table>
 
 </br>
@@ -92,7 +90,6 @@ $ git push
 
 
 
-
 ## 초기 세팅(중요)
 ### 1. 스터디 Repository로 들어가 우측 상단의 `Fork` 버튼 클릭
 
@@ -109,10 +106,10 @@ $ git push
 
 ### 6. git add, commit 실행
    
-    ```
-    $ git add 파일(파일 이름 : 알고리즘 사이트명_문제번호_문제이름)
-    $ git commit -m "커밋내용"
-    ```
+```
+$ git add 파일(파일 이름 : 알고리즘 사이트명_문제번호_문제이름)
+$ git commit -m "커밋내용"
+```
 
 - :heavy_exclamation_mark: __인증 파일 관련 안내__ ❗ 
     - 인증 파일은 반드시 .py 또는 .java 확장자 파일이어야 함
@@ -126,16 +123,20 @@ $ git push
     <div markdown="1">
 
 - 깃허브 remote Repo와 local Repo의 저장된 데이터가 일치하지 않아서 생기는 문제</br>
-    일반적으로 remote Repo에 저장된 파일이 local Repo에는 존재하지 않는 경우 발생.</br>
+일반적으로 remote Repo에 저장된 파일이 local Repo에는 존재하지 않는 경우 발생.</br>
+
     ```
     ! [rejected]          main -> main (fetch first)
     error: failed to push some refs to 'https://github.com/...
     ```
+
     따라서, git pull을 통해 로컬 저장소의 파일을 내려받아야 함.</br>
     본인이 업로드할 파일 삭제되지 않게 주의!</br>
+
     ```
     $ git pull
     ```
+
     </br>
 
 - 브런치가 `main`이 아닌 경우, 다시 `main`으로 설정해주세요
@@ -146,9 +147,10 @@ $ git push
 </br>
 
 ### 7. git push </br>
-    ```
-    $ git push
-    ```
+
+```
+$ git push
+```
 
 
 ### 8. Pull Request 진행</br>
@@ -199,3 +201,47 @@ push 완료 후 본인 계정의 github 저장소에 들어오면 Compare & pull
     </div>
 </details>
 </br>
+
+---
+
+## History
+<table>
+    <tr>
+        <td>주차</td>
+        <td>조</td>
+        <td>분류</td>
+        <td>필수문제</td>
+        <td>선택문제</td>
+    <tr>
+    <tr>
+        <td rowspan='2'>1주차</td>
+        <td>A조</td>
+        <td>문자열, 기본수학</br> (소인수분해, 수열, 소수판별) </td>
+        <td>
+        1. <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a><br/> 
+        2. <a href="https://www.acmicpc.net/problem/1712">손익분기점</a><br/>
+        3. <a href="https://www.acmicpc.net/problem/2869">달팽이는 올라가고 싶다</a><br/> 
+        4. <a href="https://www.acmicpc.net/problem/11653">소인수분해</a><br/> 
+        5. <a href="https://www.acmicpc.net/problem/9020">골드바흐의 추측</a>
+        </td>
+        <td>
+        + <a href="https://www.acmicpc.net/problem/10250">ACM 호텔</a></br>
+        + <a href="https://www.acmicpc.net/problem/4948">베르트랑 공준</a>
+        </td>
+    </tr>
+    <tr>
+        <td>B조</td>
+        <td>반복문</br>문자열</td>
+        <td>
+        1. <a href="https://www.acmicpc.net/problem/11654">아스키 코드</a><br/> 
+        2. <a href="https://www.acmicpc.net/problem/5622">다이얼</a><br/> 
+        3. <a href="https://www.acmicpc.net/problem/1110">더하기 사이클</a></br>
+        4. <a href="https://www.acmicpc.net/problem/8958">OX퀴즈</a></br>
+        5. <a href="https://www.acmicpc.net/problem/2884">알람시계</a>
+        </td>
+        <td>
+        + <a href="https://www.acmicpc.net/problem/1712">손익분기점</a></br>
+        + <a href="https://www.acmicpc.net/problem/2941">크로아티아 알파벳</a>
+        </td>
+    </tr>
+</table>
