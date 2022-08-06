@@ -35,12 +35,41 @@
 </br>
 
 <table>
-    <tr style="text-align:center !important;">
+    <tr>
         <td>주차</td>
         <td>조</td>
         <td>분류</td>
         <td>필수문제</td>
         <td>선택문제</td>
+    <tr>
+        <td rowspan='2'>2주차</td>
+        <td>A조</td>
+        <td>문제 유형 추가</td>
+        <td>
+        1. <a href="#">문제 이름</a><br/>
+        2. <a href="#">문제 이름</a><br/>
+        3. <a href="#">문제 이름</a><br/>
+        4. <a href="#">문제 이름</a><br/>
+        5. <a href="#">문제 이름</a><br/>
+        </td>
+        <td>
+        + <a href="#">선택 문제</a>
+        </td>
+    </tr>
+    <tr>
+        <td>B조</td>
+        <td>문제 유형 추가</td>
+        <td>
+        1. <a href="#">문제 이름</a><br/>
+        2. <a href="#">문제 이름</a><br/>
+        3. <a href="#">문제 이름</a><br/>
+        4. <a href="#">문제 이름</a><br/>
+        5. <a href="#">문제 이름</a><br/>
+        </td>
+        <td>
+        + <a href="#">선택 문제</a>
+        </td>
+    </tr>    
     <tr>
         <td rowspan='2'>1주차</td>
         <td>A조</td>
@@ -75,6 +104,7 @@
 </table>
 
 </br>
+
 
 
 ## 초기 세팅(중요)
