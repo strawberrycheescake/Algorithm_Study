@@ -58,9 +58,9 @@
     </tr>
     <tr>
         <td>B조</td>
-        <td>문제 유형도 적어주세요</td>
+        <td>배열</td>
         <td>
-        1. <a href="#">문제 이름</a><br/>
+        1. <a href="https://www.acmicpc.net/problem/4344">평균은 넘겠지</a><br/>
         2. <a href="#">문제 이름</a><br/>
         3. <a href="#">문제 이름</a><br/>
         4. <a href="#">문제 이름</a><br/>
